@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RaceOnTheSideGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
